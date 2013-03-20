@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">newBoston</string>
+    <string name="totalScore">Your total is 0</string>
+    <string name="addOne">Add one</string>
+    <string name="substractOne">Substract one</string>
+    <string name="total">Your total is </string>
+    <string name="typeCommand">Type a command</string>
+</resources>
