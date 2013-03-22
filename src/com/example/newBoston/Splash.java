@@ -22,7 +22,7 @@ public class Splash extends Activity {
             @Override
             public void run () {
                 try {
-                    sleep(5 * 1000);
+                    sleep(1 * 1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {

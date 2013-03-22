@@ -25,29 +25,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43bbd300-1094-4532-9eba-67716d9acde6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Camera.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Email.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/email.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/get.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/photo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/send.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/Splash.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Splash.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/get.xml" afterPath="$PROJECT_DIR$/res/layout/get.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/send.xml" afterPath="$PROJECT_DIR$/res/layout/send.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ANDR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363859323735" ignored="false" />
-    <file path="/fragment.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363858158699" ignored="false" />
+    <file path="/Dummy.txt" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363956042764" ignored="false" />
+    <file path="/fragment.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363881000282" ignored="false" />
     <file path="/email.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363853404797" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363858109329" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363879557791" ignored="false" />
     <file path="/Email.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363854871466" ignored="false" />
     <file path="/photo.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363855726491" ignored="false" />
     <file path="/Camera.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363857862044" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/example/newBoston/BuildConfig.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363858176459" ignored="false" />
-    <file path="/get.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363860225151" ignored="false" />
+    <file path="/get.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363881257066" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/pg/incentives.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363871881952" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/resources/js/pg/layout.js" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363871471556" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/service/ProposalTemplateServiceImpl.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861338895" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/pg/funding.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861338895" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/repository/ContractTemplateDaoImplSpringJdbc.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861338895" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/bpm/activiti/process/creditcheck/EmailSalesService.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861338895" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/web/ProposalGeneratorController.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861338895" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/repository/ProposalTemplateDefaultDaoImplSpringJdbc.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861338895" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/service/ContractTemplateServiceImpl.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861346919" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/web/CreditCheckWorkflowController.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861346919" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/components/ProposalComponentBeanImplSunEdLeaseDetailed.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363873482889" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/bpm/activiti/process/creditcheck/GenerateContractService.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363861346919" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/resources/js/pg/test.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363874302374" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/pg/layout.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363870272095" ignored="false" />
+    <file path="/layout.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363870177301" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/pg/map.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363866134360" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/web.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363866392838" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/resources/js/pg/incentives.js" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363871857946" ignored="false" />
+    <file path="/incentives.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363871872189" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/resources/js/pg/selection.js" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363874387576" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/pg/selection.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363874378960" ignored="false" />
+    <file path="/selection.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363874268713" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/components/ProposalComponentBeanImplSunEdSysSpecs.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363873482889" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/components/ProposalComponentBeanImpl20YrSavingsVert.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363873482889" ignored="false" />
+    <file path="$USER_HOME$/work/tremend/trunck refactor/src/net/modsolar/platform/components/ProposalComponentBeanImplSunEdCashDetailed.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363873482889" ignored="false" />
+    <file path="/send.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363877734880" ignored="false" />
+    <file path="/Data.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363956508595" ignored="false" />
+    <file path="/OpenedClass.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363956306571" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +86,52 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java" line="27" class="com.example.newBoston.OpenedClass" package="com.example.newBoston">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/newBoston/Data.java" line="45" class="com.example.newBoston.Data" package="com.example.newBoston">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/newBoston/Data.java" line="57" class="com.example.newBoston.Data" package="com.example.newBoston">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -105,88 +174,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TextPlay.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/TextPlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="email.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/email.xml">
-          <provider editor-type-id="text-editor">
-            <state line="33" column="84" selection-start="2381" selection-end="2381" vertical-scroll-proportion="-19.8">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
+      <file leaf-file-name="send.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/send.xml">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Email.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Email.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="107" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0">
+            <state line="10" column="24" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="photo.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/photo.xml">
-          <provider editor-type-id="text-editor">
-            <state line="6" column="10" selection-start="270" selection-end="270" vertical-scroll-proportion="-3.6">
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Camera.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Camera.java">
+      <file leaf-file-name="Data.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="17" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-15.72">
+            <state line="51" column="58" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.46021506">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="docComment;class#Camera#0" expanded="true" />
+                <element signature="docComment;class#Data#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="send.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/send.xml">
-          <provider editor-type-id="text-editor">
+      <file leaf-file-name="text.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/text.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="38" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="18" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/view/View.class">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="get.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/layout/get.xml">
+      <file leaf-file-name="Handler.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/os/Handler.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="62" selection-start="762" selection-end="762" vertical-scroll-proportion="0.55676854">
+            <state line="17" column="16" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="OpenedClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="33" selection-start="1467" selection-end="1475" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#OpenedClass#0" expanded="true" />
+                <element signature="e#714#787#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/MyActivity.java">
+      <file leaf-file-name="get.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/get.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
+            <state line="11" column="14" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -195,7 +265,7 @@
       <file leaf-file-name="Menu.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="66" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+            <state line="15" column="74" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -204,7 +274,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="18" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
+            <state line="36" column="53" selection-start="1661" selection-end="1752" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -231,11 +301,14 @@
         <option value="$PROJECT_DIR$/res/layout/email.xml" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/Email.java" />
         <option value="$PROJECT_DIR$/res/layout/photo.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/Camera.java" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
         <option value="$PROJECT_DIR$/res/layout/send.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/Splash.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/get.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/Data.java" />
       </list>
     </option>
   </component>
@@ -273,6 +346,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -343,7 +417,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -355,7 +428,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/work/tremend/trunck refactor" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -542,35 +615,35 @@
     <frame x="992" y="24" width="929" height="1057" extended-state="4" />
     <editor active="false" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="1092" y="124" width="729" height="857" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16231555" sideWeight="0.6710671" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.6710671" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51305336" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51305336" sideWeight="0.6006601" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3191035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16231555" sideWeight="0.6006601" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1092" y="124" width="729" height="857" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.6006601" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -633,89 +706,122 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/email.xml">
-      <provider editor-type-id="text-editor">
-        <state line="33" column="84" selection-start="2381" selection-end="2381" vertical-scroll-proportion="-19.8">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/photo.xml">
-      <provider editor-type-id="text-editor">
-        <state line="6" column="10" selection-start="270" selection-end="270" vertical-scroll-proportion="-3.6">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Email.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="107" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0">
+        <state line="50" column="107" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/TextPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/os/Looper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="761" selection-end="761" vertical-scroll-proportion="0.53900707" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="17" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-15.72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Splash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="27" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/send.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="18" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
+        <state line="10" column="24" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/get.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/text.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="38" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/os/Handler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="66" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+        <state line="15" column="74" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
+        <state line="36" column="53" selection-start="1661" selection-end="1752" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/TextPlay.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Camera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="17" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-15.72">
+        <state line="45" column="33" selection-start="1467" selection-end="1475" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;class#Camera#0" expanded="true" />
+            <element signature="docComment;class#OpenedClass#0" expanded="true" />
+            <element signature="e#714#787#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/send.xml">
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/get.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="62" selection-start="762" selection-end="762" vertical-scroll-proportion="0.55676854">
-          <folding />
+        <state line="51" column="58" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.46021506">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Data#0" expanded="true" />
+          </folding>
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
   </component>
