@@ -4,6 +4,8 @@ import android.R;
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
@@ -35,5 +37,31 @@ public class Menu extends ListActivity {
         }
         Intent ourIntent = new Intent(Menu.this, ourClass);
         startActivity(ourIntent);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu (android.view.Menu menu) {
+        super.onCreateOptionsMenu(menu);
+        MenuInflater blowUp = getMenuInflater();
+        blowUp.inflate(com.example.newBoston.R.menu.cool, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected (MenuItem item) {
+        switch (item.getItemId()) {
+            case com.example.newBoston.R.id.aboutUs:
+                Intent i = new Intent("com.example.newBoston.ABOUTUS");
+                startActivity(i);
+                break;
+            case com.example.newBoston.R.id.preference:
+                Intent i2 = new Intent("com.example.newBoston.PREFS");
+                startActivity(i2);
+                break;
+            case com.example.newBoston.R.id.exit:
+                finish();
+                break;
+        }
+        return super.onOptionsItemSelected(item);    //To change body of overridden methods use File | Settings | File Templates.
     }
 }

@@ -2,7 +2,9 @@ package com.example.newBoston;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RadioGroup;
@@ -24,6 +26,12 @@ public class OpenedClass extends Activity implements View.OnClickListener, Radio
         super.onCreate(savedInstanceState);
         setContentView(R.layout.send);
         initialize();
+        SharedPreferences getData = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
+        String et = getData.getString("name", "Bogdan is....");
+        String values = getData.getString("list", "4");
+        if (values.contentEquals("1")) {
+            question.setText(et);
+        }
 //        Bundle gotBasket = getIntent().getExtras().getBundle("basket");
 //        gotBread = gotBasket.getString("bread");
 //        question.setText(gotBread);

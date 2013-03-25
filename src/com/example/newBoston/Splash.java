@@ -2,8 +2,10 @@ package com.example.newBoston;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 
 /**
  * @author brata@tremend.ro
@@ -16,8 +18,13 @@ public class Splash extends Activity {
     protected void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash);
-//        ourSong = MediaPlayer.create(Splash.this, R.raw.water_splash);
-//        ourSong.start();
+        ourSong = MediaPlayer.create(Splash.this, R.raw.water_splash);
+
+        SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
+        boolean music = getPrefs.getBoolean("ckeckbox", true);
+        if (music) {
+            ourSong.start();
+        }
         Thread timer = new Thread() {
             @Override
             public void run () {
@@ -37,7 +44,7 @@ public class Splash extends Activity {
     @Override
     protected void onPause () {
         super.onPause();    //To change body of overridden methods use File | Settings | File Templates.
-//        ourSong.release();
+        ourSong.release();
         finish();
 
     }
