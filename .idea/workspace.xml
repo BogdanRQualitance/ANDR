@@ -29,13 +29,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43bbd300-1094-4532-9eba-67716d9acde6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/plus.bmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/plus2.bmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/plus3.bmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/custom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout-land/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
     </list>
     <ignored path="ANDR.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,7 +71,7 @@
     <file path="/Data.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363956508595" ignored="false" />
     <file path="/OpenedClass.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364202524107" ignored="false" />
     <file path="/cool_menu.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363957235266" ignored="false" />
-    <file path="/Menu.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363961808538" ignored="false" />
+    <file path="/Menu.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364209117329" ignored="false" />
     <file path="/AboutUs.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363960274037" ignored="false" />
     <file path="/about.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363960101141" ignored="false" />
     <file path="/cool.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363960784553" ignored="false" />
@@ -197,18 +192,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Splash.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Splash.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="17" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#Splash#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OpenedClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -225,7 +208,19 @@
       <file leaf-file-name="Menu.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="13" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0">
+            <state line="24" column="8" selection-start="675" selection-end="721" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#Menu#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutUs.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="54" selection-start="383" selection-end="383" vertical-scroll-proportion="0.36713287">
               <folding />
             </state>
           </provider>
@@ -279,10 +274,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/custom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="105" selection-start="318" selection-end="318" vertical-scroll-proportion="0.14044943">
+            <state line="5" column="105" selection-start="318" selection-end="318" vertical-scroll-proportion="-3.0">
               <folding />
             </state>
           </provider>
@@ -319,18 +314,18 @@
         <option value="$PROJECT_DIR$/src/com/example/newBoston/Data.java" />
         <option value="$PROJECT_DIR$/res/menu/cool_menu.xml" />
         <option value="$PROJECT_DIR$/res/layout/about.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java" />
         <option value="$PROJECT_DIR$/res/menu/cool.xml" />
         <option value="$PROJECT_DIR$/res/values/array.xml" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/Prefs.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/Splash.java" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java" />
         <option value="$PROJECT_DIR$/res/xml/prefs.xml" />
         <option value="$PROJECT_DIR$/res/layout-land/main.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/res/drawable-hdpi/custom.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java" />
       </list>
     </option>
   </component>
@@ -661,7 +656,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="24" width="929" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1092" y="124" width="729" height="857" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16154721" sideWeight="0.68171805" order="3" side_tool="false" content_ui="tabs" />
@@ -685,7 +680,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2644722" sideWeight="0.68171805" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2644722" sideWeight="0.68171805" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31828195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -759,13 +754,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="58" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Prefs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="48" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
@@ -811,13 +799,6 @@
     <entry file="file://$PROJECT_DIR$/res/xml/prefs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="40" selection-start="589" selection-end="589" vertical-scroll-proportion="-7.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="13" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -878,7 +859,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/custom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="105" selection-start="318" selection-end="318" vertical-scroll-proportion="0.14044943">
+        <state line="5" column="105" selection-start="318" selection-end="318" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="675" selection-end="721" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Menu#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/AboutUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="54" selection-start="383" selection-end="383" vertical-scroll-proportion="0.36713287">
           <folding />
         </state>
       </provider>

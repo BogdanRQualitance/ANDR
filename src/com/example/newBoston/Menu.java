@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -20,6 +22,9 @@ public class Menu extends ListActivity {
     @Override
     protected void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setListAdapter(new ArrayAdapter<String>(Menu.this, R.layout.simple_list_item_1, classes));
     }
 
@@ -33,7 +38,6 @@ public class Menu extends ListActivity {
         try {
             ourClass = Class.forName("com.example.newBoston." + classe);
         } catch (ClassNotFoundException e) {
-//            e.printStackTrace();
         }
         Intent ourIntent = new Intent(Menu.this, ourClass);
         startActivity(ourIntent);
