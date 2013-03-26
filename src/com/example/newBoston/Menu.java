@@ -17,7 +17,7 @@ import android.widget.ListView;
  * @since 12.03.2013
  */
 public class Menu extends ListActivity {
-    String classes[] = {"MyActivity", "TextPlay", "Email", "Camera", "Data", "GFX"};
+    String classes[] = {"MyActivity", "TextPlay", "Email", "Camera", "Data", "GFX","GFXSurface"};
 
     @Override
     protected void onCreate (Bundle savedInstanceState) {
@@ -31,8 +31,6 @@ public class Menu extends ListActivity {
     @Override
     protected void onListItemClick (ListView l, View v, int position, long id) {
         super.onListItemClick(l, v, position, id);
-//        String chess = classes[4];
-
         String classe = classes[position];
         Class ourClass = null;
         try {
