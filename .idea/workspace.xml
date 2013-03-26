@@ -29,21 +29,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43bbd300-1094-4532-9eba-67716d9acde6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/shoot.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/shoot2.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/newBoston/SoundStuff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Slider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/sliding.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/GFX.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/GFX.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/GFXSurface.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/GFXSurface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" afterPath="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ANDR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364293271416" ignored="false" />
+    <file path="/Dummy.txt" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364305192339" ignored="false" />
     <file path="/fragment.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364302912983" ignored="false" />
     <file path="/email.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363853404797" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364304263841" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364305574632" ignored="false" />
     <file path="/Email.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363854871466" ignored="false" />
     <file path="/photo.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363855726491" ignored="false" />
     <file path="/Camera.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1363857862044" ignored="false" />
@@ -206,6 +203,8 @@
     <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/madmin/installerAdmin.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364295522284" ignored="false" />
     <file path="$USER_HOME$/work/tremend/trunck refactor/WebContent/WEB-INF/views/madmin/installerList.jsp" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364295522284" ignored="false" />
     <file path="/SoundStuff.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364304947829" ignored="false" />
+    <file path="/Slider.java" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364306779476" ignored="false" />
+    <file path="/sliding.xml" changelist="43bbd300-1094-4532-9eba-67716d9acde6" time="1364306226731" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,15 +307,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyBringBack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/MyBringBack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="7" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GFXSurface.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/GFXSurface.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -326,63 +316,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Email.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Email.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="7" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="43" selection-start="2704" selection-end="2704" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SoundStuff.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/SoundStuff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="49" selection-start="929" selection-end="929" vertical-scroll-proportion="0.40376568">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#SoundStuff#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SoundPool.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/media/SoundPool.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="28" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GFX.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/GFX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#GFX#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Menu.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="107" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+            <state line="20" column="64" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#Menu#0" expanded="true" />
@@ -391,18 +328,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ball.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ball.png">
-          <provider selected="true" editor-type-id="images">
+      <file leaf-file-name="sliding.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/sliding.xml">
+          <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="23" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-3.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="R.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen/com/example/newBoston/R.java">
+      <file leaf-file-name="Slider.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Slider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="56" column="24" selection-start="1832" selection-end="1832" vertical-scroll-proportion="1.125">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#Slider#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -425,8 +370,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/newBoston/Prefs.java" />
-        <option value="$PROJECT_DIR$/src/com/example/newBoston/Splash.java" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/OpenedClass.java" />
         <option value="$PROJECT_DIR$/res/xml/prefs.xml" />
         <option value="$PROJECT_DIR$/res/layout-land/main.xml" />
@@ -438,9 +381,11 @@
         <option value="$PROJECT_DIR$/src/com/example/newBoston/MyBringBackSurface.java" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/GFXSurface.java" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/GFX.java" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/SoundStuff.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/newBoston/Menu.java" />
-        <option value="$PROJECT_DIR$/src/com/example/newBoston/SoundStuff.java" />
+        <option value="$PROJECT_DIR$/res/layout/sliding.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/newBoston/Slider.java" />
       </list>
     </option>
   </component>
@@ -545,6 +490,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="raw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ANDR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ANDR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -786,16 +749,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="994" y="24" width="929" height="1057" extended-state="4" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.67876786" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3246311" sideWeight="0.67876786" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3850385" sideWeight="0.49602723" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3850385" sideWeight="0.49602723" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3212321" sideWeight="0.50056756" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -806,15 +772,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26220205" sideWeight="0.6149615" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3212321" sideWeight="0.49602723" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26220205" sideWeight="0.6149615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3212321" sideWeight="0.49148694" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="1126" y="141" width="729" height="857" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16154721" sideWeight="0.68171805" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32536975" sideWeight="0.68171805" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -879,18 +842,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/view/View.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="53" selection-start="3888" selection-end="3888" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen/com/example/newBoston/BuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gen/com/example/newBoston/Manifest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="19" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
@@ -945,40 +896,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/GFXSurface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="32" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/media/SoundPool.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="28" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="107" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#Menu#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="43" selection-start="2704" selection-end="2704" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/GFX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
+        <state line="29" column="5" selection-start="770" selection-end="770" vertical-scroll-proportion="0.83653843">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#GFX#0" expanded="true" />
@@ -988,10 +908,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/SoundStuff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="49" selection-start="929" selection-end="929" vertical-scroll-proportion="0.40376568">
+        <state line="27" column="49" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#SoundStuff#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="39" selection-start="2798" selection-end="2798" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Android/android-sdk-linux/platforms/android-10/android.jar!/android/media/SoundPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="28" selection-start="739" selection-end="739" vertical-scroll-proportion="0.33461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/GFXSurface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="32" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="64" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Menu#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sliding.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="23" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/newBoston/Slider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="24" selection-start="1832" selection-end="1832" vertical-scroll-proportion="1.125">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Slider#0" expanded="true" />
           </folding>
         </state>
       </provider>
