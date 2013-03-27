@@ -17,8 +17,9 @@ import android.widget.ListView;
  * @since 12.03.2013
  */
 public class Menu extends ListActivity {
-    String classes[] = {"MyActivity", "Tabs","SimpleBrowser", "Email", "Camera", "Data",
-            "GFX", "GFXSurface", "SoundStuff", "Slider", "TextPlay"};
+    String classes[] = {"MyActivity", "Tabs", "SimpleBrowser", "Flipper",
+            "SharedPrefs", "Email", "Camera", "Data", "GFX", "GFXSurface", "SoundStuff",
+            "Slider", "TextPlay"};
 
     @Override
     protected void onCreate (Bundle savedInstanceState) {
