@@ -63,9 +63,9 @@ public class InternalData extends Activity implements View.OnClickListener {
                     fileOutputStream.write(data.getBytes());
                     fileOutputStream.close();
                 } catch (FileNotFoundException e) {
-                    e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                    e.printStackTrace();
                 } catch (IOException e) {
-                    e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                    e.printStackTrace();
                 }
                 break;
             case R.id.bLoadPrefs:
@@ -117,7 +117,7 @@ public class InternalData extends Activity implements View.OnClickListener {
                     collected = new String(dataArray);
                 }
             } catch (FileNotFoundException e) {
-                e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                e.printStackTrace();
             } catch (IOException e) {
                 e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
             } finally {
